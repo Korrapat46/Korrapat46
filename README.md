@@ -68,7 +68,7 @@ This project was developed during an internship at GIS Group Co., Ltd.
 
 ---
 
-## 3. Patient Information Management System
+## 3. Sports Medicine & Performance Center
 🔗 https://smpc1.gisgroup-ai.com/
 
 A healthcare web application designed for recording patient information and allowing doctors, scientists, and physical therapists to create and manage treatment plans within a single platform.
