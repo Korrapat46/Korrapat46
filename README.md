@@ -98,7 +98,3 @@ The project is currently under development and being tested in clinics.
 - ## 📫 Contact
 - Email: korrapatpati@gmail.com
 - GitHub: https://github.com/Korrapat46
-
-## 📫 Contact
-- Email: yourmail@gmail.com
-- LinkedIn: your-linkedin
