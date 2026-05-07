@@ -48,7 +48,7 @@ This project was developed as a university senior project and is currently being
 
 ---
 
-## 2. Dr. Magica E-Commerce Website
+## 2. Dr. Magica
 🔗 https://www.dr-magica.com/
 
 An e-commerce platform for selling health supplement products.
